@@ -1,4 +1,3 @@
-
 # Emotion-to-Emoji Converter
 
 ##  About the Project
@@ -14,6 +13,3 @@ This is a simple web application that takes a text input containing emotions and
 - HTML
 - CSS
 - JavaScript
-
-## Installation
-1. Clone the repository:
